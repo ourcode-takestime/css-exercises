@@ -1,0 +1,20 @@
+#even1 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#even2 {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.odd,
+.coolerodd {
+    background-color: #f08080;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.coolerodd {
+    font-size: 24px;
+}
